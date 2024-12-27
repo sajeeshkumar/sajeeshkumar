@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajeeshkumar
 - 👀 I’m interested in tackling interesting problems
-- 🌱 I’m currently learning Python and VueJS
+- 🌱 I’m currently trying out a few ideas on LLM
 - 💞️ I’m looking to collaborate on senior leadership roles
 
 <!---
